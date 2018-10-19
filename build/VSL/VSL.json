@@ -1,0 +1,182 @@
+[
+  {
+    "midi files": "piano_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/32 Keyboards+Mallets/01 Bosendorfer pedal up", 
+    "filenames": "01P001Ffnp.wav"
+  }, 
+  {
+    "midi files": "piano_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/32 Keyboards+Mallets/01 Bosendorfer pedal up", 
+    "filenames": "01P001Fmnp.wav"
+  }, 
+  {
+    "midi files": "contrabass_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/33S DB sustain", 
+    "filenames": "04Co001Fmnp.wav"
+  }, 
+  {
+    "midi files": "contrabass_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/33S DB sustain", 
+    "filenames": "04Co001Fpnp.wav"
+  }, 
+  {
+    "midi files": "trumpet_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/22 Trumpets/12S TrC sustain", 
+    "filenames": "05Tru001Ffnp.wav"
+  }, 
+  {
+    "midi files": "trumpet_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/22 Trumpets/12S TrC sustain", 
+    "filenames": "05Tru001Fmnp.wav"
+  }, 
+  {
+    "midi files": "trumpet_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/22 Trumpets/12S TrC sustain", 
+    "filenames": "05Tru001Fpnp.wav"
+  }, 
+  {
+    "midi files": "trombone_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/23 Trombones/02S TTB sustain", 
+    "filenames": "06Tro001Ffnp.wav"
+  }, 
+  {
+    "midi files": "trombone_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/23 Trombones/02S TTB sustain", 
+    "filenames": "06Tro001Fmnp.wav"
+  }, 
+  {
+    "midi files": "trombone_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/23 Trombones/02S TTB sustain", 
+    "filenames": "06Tro001Fpnp.wav"
+  }, 
+  {
+    "midi files": "horn_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/21 Horns/02S HOvn sustain", 
+    "filenames": "07H001Ffnp.wav"
+  }, 
+  {
+    "midi files": "horn_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/21 Horns/02S HOvn sustain", 
+    "filenames": "07H001Fmnp.wav"
+  }, 
+  {
+    "midi files": "piano_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/32 Keyboards+Mallets/01 Bosendorfer pedal up", 
+    "filenames": "01P001Fpnp.wav"
+  }, 
+  {
+    "midi files": "horn_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/21 Horns/02S HOvn sustain", 
+    "filenames": "07H001Fpnp.wav"
+  }, 
+  {
+    "midi files": "oboe_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/12 Oboes/12S OBvn sustain", 
+    "filenames": "08O001Ffnp.wav"
+  }, 
+  {
+    "midi files": "oboe_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/12 Oboes/12S OBvn sustain", 
+    "filenames": "08O001Fmnp.wav"
+  }, 
+  {
+    "midi files": "oboe_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/12 Oboes/12S OBvn sustain", 
+    "filenames": "08O001Fpnp.wav"
+  }, 
+  {
+    "midi files": "bassoon_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/14 Bassoons/02S BA sustain", 
+    "filenames": "09B001Ffnp.wav"
+  }, 
+  {
+    "midi files": "bassoon_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/14 Bassoons/02S BA sustain", 
+    "filenames": "09B001Fmnp.wav"
+  }, 
+  {
+    "midi files": "bassoon_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/14 Bassoons/02S BA sustain", 
+    "filenames": "09B001Fpnp.wav"
+  }, 
+  {
+    "midi files": "clarinet_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/13 Clarinets/12S CLBb sustain", 
+    "filenames": "10Cl001Ffnp.wav"
+  }, 
+  {
+    "midi files": "clarinet_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/13 Clarinets/12S CLBb sustain", 
+    "filenames": "10Cl001Fmnp.wav"
+  }, 
+  {
+    "midi files": "clarinet_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/13 Clarinets/12S CLBb sustain", 
+    "filenames": "10Cl001Fpnp.wav"
+  }, 
+  {
+    "midi files": "violin_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/03S VI sustain", 
+    "filenames": "02V001Ffnp.wav"
+  }, 
+  {
+    "midi files": "flute_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/12S FL1 sustain", 
+    "filenames": "11F001Ffnp.wav"
+  }, 
+  {
+    "midi files": "flute_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/12S FL1 sustain", 
+    "filenames": "11F001Fmnp.wav"
+  }, 
+  {
+    "midi files": "flute_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/12S FL1 sustain", 
+    "filenames": "11F001Fpnp.wav"
+  }, 
+  {
+    "midi files": "flute_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/22S FL2 sustain", 
+    "filenames": "11F002Ffnp.wav"
+  }, 
+  {
+    "midi files": "flute_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/22S FL2 sustain", 
+    "filenames": "11F002Fmnp.wav"
+  }, 
+  {
+    "midi files": "flute_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/11 Flutes/22S FL2 sustain", 
+    "filenames": "11F002Fpnp.wav"
+  }, 
+  {
+    "midi files": "violin_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/03S VI sustain", 
+    "filenames": "02V001Fmnp.wav"
+  }, 
+  {
+    "midi files": "violin_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/03S VI sustain", 
+    "filenames": "02V001Fpnp.wav"
+  }, 
+  {
+    "midi files": "cello_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/23S VC sustain", 
+    "filenames": "03Ce001Ffnp.wav"
+  }, 
+  {
+    "midi files": "cello_mf_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/23S VC sustain", 
+    "filenames": "03Ce001Fmnp.wav"
+  }, 
+  {
+    "midi files": "cello_pp_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/23S VC sustain", 
+    "filenames": "03Ce001Fpnp.wav"
+  }, 
+  {
+    "midi files": "contrabass_ff_VSL.mid", 
+    "samples": "/ Special Edition patches/01 Solo Strings/33S DB sustain", 
+    "filenames": "04Co001Ffnp.wav"
+  }
+]
